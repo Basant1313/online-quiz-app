@@ -69,6 +69,7 @@ Modular and reusable component structure for scalability
 
 ## 📂 Project Structure
 
+```text
 online-quiz-app/
 │
 ├── backend/                     # Express + Node.js (API)
@@ -127,7 +128,7 @@ online-quiz-app/
 │   └── vite.config.js           # Vite config for dev/build
 │
 ├── README.md                    # Project README with setup & usage
-
+```
 ## 💡 Future Enhancements
 
 🧩 Add authentication (JWT-based login/signup)
