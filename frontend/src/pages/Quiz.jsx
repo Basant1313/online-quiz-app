@@ -132,7 +132,7 @@ const Quiz = () => {
         <ProgressBar currentIndex={currentIndex} total={questions.length} />
 
         {/* Timer */}
-        <div className="flex justify-end mb-6">
+        <div className="flex justify-center mb-6">
           <TimerCircle timeLeft={timer} totalTime={30} />
         </div>
 
