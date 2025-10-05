@@ -1,18 +1,3 @@
-// import { Link } from "react-router-dom";
-
-// export default function Home() {
-//   return (
-//     <div className="flex flex-col items-center justify-center h-screen gap-6">
-//       <h1 className="text-4xl font-bold">Welcome to Online Quiz App</h1>
-//       <Link
-//         to="/quiz"
-//         className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700"
-//       >
-//         Start Quiz
-//       </Link>
-//     </div>
-//   );
-// }
 
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";

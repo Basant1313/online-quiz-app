@@ -1,7 +1,7 @@
 import dotenv from "dotenv";
 import app from "./app.js";
 import sequelize from "./config/db.js";
-import Question from "./models/question.model.js";
+
 
 dotenv.config();
 
